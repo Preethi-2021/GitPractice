@@ -6,3 +6,6 @@ Economy
 Science and Technology
 Ethics
 Essay
+Java
+Python
+
