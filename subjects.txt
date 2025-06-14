@@ -8,4 +8,9 @@ Ethics
 Essay
 Java
 Python
-
+Telugu
+Hindi
+English
+Maths
+Science 
+Social
